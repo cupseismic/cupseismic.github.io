@@ -1,4 +1,4 @@
-# Seismic Exploration, China University of Petroleum (Beijing)
+ï»¿# Seismic Exploration, China University of Petroleum (Beijing)
 
 [CUP](http://www.cup.edu.cn)
 
@@ -11,6 +11,6 @@
         https://github.com/cuply72/SeismicExploration/raw/master/2011-Geophysics-Finite-difference%20modeling%20with%20adaptive%20variable-length%20spatial%20operators.pdf
       ))
  
-## Assignment£¨×÷Òµ£©
+## Assignmentï¼ˆä½œä¸šï¼‰
 
 ## Quiz
